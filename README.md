@@ -46,7 +46,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rishu-kushwaha-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img width="48%" src="https://streak-stats.demolab.com?user=rishu-kushwaha-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
