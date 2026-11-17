@@ -83,19 +83,6 @@
   </tr>
 </table>
 
-<img src="https://githubusercontent.com" width="100%">
-
-### 📊 GitHub Analytics & Activity
-<p align="center">
-  <img height="170" src="https://vercel.app" />
-  <img height="170" src="https://herokuapp.com" />
-</p>
-
-<!-- Animated Coding Quote -->
-<p align="center">
-  <img src="https://vercel.app" alt="Developer Quote" />
-</p>
-
 <!-- Animated Footer -->
 <p align="center">
   <img src="https://vercel.app" />
