@@ -32,7 +32,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,git,github,vscode,figma&perline=9" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="My Skills" />
 </p>
 
 ---
