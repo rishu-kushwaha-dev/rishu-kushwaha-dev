@@ -1,89 +1,56 @@
 <!-- Animated Neon Wave Header -->
 <p align="center">
-  <img src="https://vercel.app•%20CSS%20•%20JavaScript&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rishu%20Kushwaha&fontSize=42&fontAlignY=35&animation=twinkling&desc=Front-End%20Web%20Developer%20%E2%80%A2%20HTML%20%E2%80%A2%20CSS%20%E2%80%A2%20JavaScript&descAlignY=58&descSize=16" width="100%" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rishu+Kushwaha;Front-End+Web+Developer;Building+30%2B+Interactive+Web+Projects;Clean+UI+%26+Responsive+Design+Enthusiast" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views & Badges -->
 <p align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
-  <img src="https://shields.io" alt="30+ Projects" />
-  <img src="https://shields.io" alt="Frontend Focus" />
+  <img src="https://komarev.com/ghpvc/?username=rishu-kushwaha-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Projects-30%2B-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="30+ Projects" />
+  <img src="https://img.shields.io/badge/Focus-Front--End%20Dev-0ea5e9?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend Focus" />
 </p>
 
 <!-- Hero Coding Banner Image -->
 <p align="center">
-  <img src="https://unsplash.com" alt="Coding Workspace Banner" style="border-radius: 10px;" />
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1000&q=80" alt="Coding Workspace Banner" width="85%" />
 </p>
 
-<img src="https://githubusercontent.com" width="100%">
+---
 
-### 👨‍💻 About Me
-<img align="right" width="280" src="https://giphy.com" alt="Developer Coding" />
+## 👨‍💻 About Me
 
-- 👋 Hi, I'm **Rishu Kushwaha**, a passionate **Frontend Web Developer**.
-- 💻 I specialize in crafting responsive, interactive websites using **HTML5, CSS3, and JavaScript**.
-- 🚀 Built **30+ hands-on web applications** ranging from e-commerce UIs to developer tools and games.
-- 🎯 Currently focused on **DOM Manipulation, API Integrations, and Smooth CSS Animations**.
-- ⚡ **Motto:** *"Clean code, creative design, and smooth user experience."*
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding" />
+
+- 🔭 I’m currently building **30+ Front-End Web Projects** using HTML, CSS, and JavaScript.
+- 🌱 Focused on **Responsive UI/UX, Interactive Animations & Modern Web Design**.
+- 💻 Check out my repositories for **Websites, Security Tools, Utilities & Mini Games**.
+- ⚡ Fun fact: I love turning creative ideas into clean, functional code!
 
 <br clear="right"/>
 
-<img src="https://githubusercontent.com" width="100%">
+---
 
-### 🛠️ My Tech Arsenal & Workflow
+## 🛠️ Tech Stack & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,git,github,vscode,figma&perline=9" alt="My Skills" />
 </p>
 
-<img src="https://githubusercontent.com" width="100%">
+---
 
-### 🏆 Featured Projects Gallery (30+ Web Apps)
+## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://unsplash.com" alt="Websites Banner" />
-      <h4>🛍️ Websites & Landing Pages</h4>
-      <p><b>Gift Bloom</b> (Online Gift Store) • <b>Shree Palace</b> (Room Booking) • <b>Shree Ice-Cream Parlour</b> • <b>Portfolio</b></p>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://unsplash.com" alt="Security Banner" />
-      <h4>🔐 Security & Generators</h4>
-      <p><b>QR Code Generator</b> • <b>Password Generator & Tester</b> • <b>Captcha Verification</b> • <b>OTP Verification</b></p>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://unsplash.com" alt="Utilities Banner" />
-      <h4>⚙️ Smart Web Utilities</h4>
-      <p><b>Currency & Unit Converter</b> • <b>BMI & Age Calculator</b> • <b>Text-to-Speech</b> • <b>Maps Distance Calc</b></p>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://unsplash.com" alt="Games & UI Banner" />
-      <h4>🎮 Fun & Interactive UI</h4>
-      <p><b>Hacker Terminal</b> • <b>Lamp Login Form</b> • <b>Web Games</b> • <b>Virtual Keyboard</b> • <b>Digital Clock</b></p>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-    </td>
-  </tr>
-</table>
-
-<!-- Animated Footer -->
 <p align="center">
-  <img src="https://vercel.app" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rishu-kushwaha-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=rishu-kushwaha-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- Animated Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </p>
