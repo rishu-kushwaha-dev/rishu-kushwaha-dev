@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://vercel.app" />
+</p>
 
-<!--
-**rishu-kushwaha-dev/rishu-kushwaha-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 I’m currently working on web development projects.
+- 🌱 I’m learning new technologies every day.
+- 💬 Ask me about HTML, CSS, JavaScript, or React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="https://vercel.app" alt="Rishu's GitHub Stats" />
+</p>
