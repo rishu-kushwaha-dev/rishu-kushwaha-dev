@@ -8,12 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rishu+Kushwaha;Front-End+Web+Developer;Building+30%2B+Interactive+Web+Projects;Clean+UI+%26+Responsive+Design+Enthusiast" alt="Typing SVG" />
 </p>
 
-<!-- Profile Views & Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishu-kushwaha-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Projects-30%2B-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="30+ Projects" />
-  <img src="https://img.shields.io/badge/Focus-Front--End%20Dev-0ea5e9?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend Focus" />
-</p>
 
 <!-- Hero Coding Banner Image -->
 <p align="center">
@@ -42,12 +36,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com?user=rishu-kushwaha-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 <!-- Animated Footer Wave -->
 <p align="center">
