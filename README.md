@@ -1,6 +1,6 @@
 <!-- Animated Neon Wave Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rishu%20Kushwaha&fontSize=42&fontAlignY=35&animation=twinkling&desc=Front-End%20Web%20Developer%20%E2%80%A2%20HTML%20%E2%80%A2%20CSS%20%E2%80%A2%20JavaScript&descAlignY=58&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rishu%20Kushwaha&fontSize=42&fontAlignY=35&animation=twinkling&desc=Front-End%20Web%20Developer%20%E2%80%A2%20HTML5%20%E2%80%A2%20CSS3%20%E2%80%A2%20JavaScript%20ES6%2B&descAlignY=58&descSize=16" width="100%" />
 </p>
 
 <!-- Typing Animation -->
