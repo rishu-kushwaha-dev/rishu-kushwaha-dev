@@ -20,7 +20,7 @@
 
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding" />
 
-- 🔭 I’m currently building **Front-End Web Projects** using HTML, CSS, and JavaScript.
+- 🔭 I’m currently building **Front-End Web Projects** using HTML 5, CSS 3, and JavaScript ES6+.
 - 🌱 Focused on **Responsive UI/UX, Interactive Animations & Modern Web Design**.
 - 💻 Check out my repositories for **Websites, Security Tools, Utilities & Mini Games**.
 - ⚡ Fun fact: I love turning creative ideas into clean, functional code!
