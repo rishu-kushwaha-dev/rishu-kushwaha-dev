@@ -34,6 +34,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="My Skills" />
 </p>
-
----
-
